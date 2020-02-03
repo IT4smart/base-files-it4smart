@@ -1,0 +1,2 @@
+etc/apt/apt.conf.d/00-it4smart-do-not-keep-downloads etc/apt/apt.conf.d
+etc/apt/apt.conf.d/00-it4smart-no-recommends-or-suggests etc/apt/apt.conf.d
